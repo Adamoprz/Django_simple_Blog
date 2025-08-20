@@ -11,4 +11,5 @@ Pass: admin
 When use Docker:
 
 docker build --tag 'django' .
+
 docker run -p 8000:8000 django
